@@ -70,7 +70,7 @@ key_bindings:
   # use Ctrl-V for Paste, and Ctrl-Shift-V for actual Ctrl-V (used in vim for example)
   - key: V
     mods: Control
-    action: Paste }
+    action: Paste
   - key: V
     mods: Control|Shift
     chars: "\x16"
